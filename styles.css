@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    padding: 1em;
+}
+p {
+    color: red;
+    text-align: center;
+}
+button {
+    align-items: center;
+}
